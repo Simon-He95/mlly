@@ -24,7 +24,7 @@
     "test": "pnpm lint && vitest run"
   },
   "dependencies": {
-    "pathe": "^0.3.0",
+    "pathe": "^1.1.1",
     "pkg-types": "^0.3.2"
   },
   "devDependencies": {
